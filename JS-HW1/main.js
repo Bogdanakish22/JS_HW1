@@ -7,6 +7,7 @@ console.log(age);
 const isStudent = true
 console.log(isStudent);
 
+
 const myString = "закінчуй те що почав"
 console.log(myString);
 
